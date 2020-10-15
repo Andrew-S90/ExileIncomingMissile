@@ -1,7 +1,7 @@
 # ExileIncomingMissile
 Triggers a warning when a missile is shot at the vehicle
 
-Showcase video: https://www.youtube.com/watch?v=bkjmPR8bP_w
+Showcase video: https://www.youtube.com/watch?v=VrcfySy-D7A
 
 This was developed on a test server with EXTDB2, no infistar and no battleye.
 
